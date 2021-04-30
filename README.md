@@ -1,5 +1,5 @@
 ## Hi there, I'm Rahmat 👋
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${rahmat3nanda})
+![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/rahmat3nanda/rahmat3nanda)
 
 ![Rahmat's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahmat3nanda&count_private=true&show_icons=true&theme=radical)
 
