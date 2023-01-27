@@ -18,7 +18,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Dart         3 mins          █████████▒░░░░░░░░░░░░░░░   37.34 %
+Python       3 mins          ████████░░░░░░░░░░░░░░░░░   32.20 %
+Swift        2 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.13 %
+JavaScript   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
+XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
 ```
 
 <!--END_SECTION:waka-->
