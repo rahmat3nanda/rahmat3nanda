@@ -18,12 +18,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-Swift                    5 hrs 24 mins   ██████████████████░░░░░░░   72.49 %
-XCodeProjectFiles        45 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.22 %
-Cocoa                    24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
-Text                     22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
-Dart                     21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
-Asset Catalog Contents   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+Swift                    5 hrs 49 mins   ████████████████████░░░░░   80.61 %
+XCodeProjectFiles        33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
+Text                     23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
+Dart                     18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
+Asset Catalog Contents   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+GitIgnore file           2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
 ```
 
 <!--END_SECTION:waka-->
