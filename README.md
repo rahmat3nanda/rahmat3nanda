@@ -18,12 +18,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-Swift               3 hrs 11 mins   ██████████████████▓░░░░░░   74.18 %
-XCodeProjectFiles   29 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.35 %
-Core Data model     14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
-textmate            11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
-Podfile             9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
-Text                1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+Swift               3 hrs 47 mins   ██████████████████░░░░░░░   71.83 %
+XCodeProjectFiles   42 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.52 %
+Core Data model     14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
+Cocoa               12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
+Podfile             9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
+textmate            6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
 ```
 
 <!--END_SECTION:waka-->
