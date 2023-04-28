@@ -18,12 +18,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Swift               46 mins         █████████████░░░░░░░░░░░░   51.91 %
-Text                19 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.46 %
-textmate            11 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.91 %
-Markdown            10 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.11 %
-XCodeProjectFiles   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
-Bash                0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
