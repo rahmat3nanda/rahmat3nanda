@@ -18,7 +18,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Swift               49 mins         █████████████▒░░░░░░░░░░░   53.32 %
+Markdown            13 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.37 %
+XML                 8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.59 %
+XCodeProjectFiles   8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 %
+Bash                4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
+Text                3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
 ```
 
 <!--END_SECTION:waka-->
