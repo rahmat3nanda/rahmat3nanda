@@ -18,11 +18,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-Swift               2 hrs 28 mins   ███████░░░░░░░░░░░░░░░░░░   28.58 %
-XCodeProjectFiles   1 hr 58 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.96 %
-Text                1 hr 10 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.53 %
-Podfile             48 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.31 %
-GitIgnore file      29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
+Swift               3 hrs 27 mins   █████████▓░░░░░░░░░░░░░░░   39.01 %
+XCodeProjectFiles   1 hr 23 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.59 %
+Text                48 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 %
+Markdown            45 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 %
+Podfile             23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
 ```
 
 <!--END_SECTION:waka-->
