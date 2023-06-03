@@ -17,12 +17,12 @@
 
 <!--START_SECTION:waka-->
 
-```text
-Swift               5 hrs 27 mins   ███████░░░░░░░░░░░░░░░░░░   27.63 %
-YAML                4 hrs 6 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.78 %
-Text                3 hrs 4 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.53 %
-AUTO_DETECTED       2 hrs 40 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.52 %
-GitIgnore file      58 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
+```txt
+Swift               4 hrs 7 mins    ███████▒░░░░░░░░░░░░░░░░░   29.66 %
+Text                2 hrs 58 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.38 %
+AUTO_DETECTED       2 hrs 40 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.22 %
+YAML                56 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
+GitIgnore file      47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
 ```
 
 <!--END_SECTION:waka-->
