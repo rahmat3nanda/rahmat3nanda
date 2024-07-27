@@ -19,7 +19,9 @@
   alt="Rahmat Trinanda WakaTime Activity"
 />
 
-<figure><img src="https://wakatime.com/share/@rahmat3nanda/319bc616-3e0d-4157-bae8-2b9838d3ae90.svg"></img></figure>
+<figure><img src="https://wakatime.com/share/@rahmat3nanda/319bc616-3e0d-4157-bae8-2b9838d3ae90.svg"/></figure>
+
+<figure><img src="https://wakatime.com/share/@rahmat3nanda/32e4d226-8076-491a-a21e-19282f1c0652.svg"/></figure>
 
 ### 📫 Contact Me
 - LinkedIn - [Rahmat Trinanda](https://www.linkedin.com/in/rahmat-trinanda/)
