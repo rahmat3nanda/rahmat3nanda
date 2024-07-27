@@ -14,6 +14,11 @@
 
 ### 📊 Weekly development breakdown
 
+<img
+  src="https://github.com/rahmat3nanda/rahmat3nanda/blob/main/images/stat.svg"
+  alt="Rahmat Trinanda WakaTime Activity"
+/>
+
 <!--START_SECTION:waka-->
 
 ```txt
