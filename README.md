@@ -14,10 +14,17 @@
 
 ### 📊 Weekly development breakdown
 
-<img
-  src="https://github.com/rahmat3nanda/rahmat3nanda/blob/main/images/stat.svg"
-  alt="Rahmat Trinanda WakaTime Activity"
-/>
+<!--START_SECTION:waka-->
+
+```txt
+Swift            1 hr 53 mins    ██████████▒░░░░░░░░░░░░░░   41.56 %
+Kotlin           1 hr 34 mins    ████████▓░░░░░░░░░░░░░░░░   34.59 %
+Markdown         22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 %
+Properties       20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
+Groovy           12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
+```
+
+<!--END_SECTION:waka-->
 
 ### 📫 Contact Me
 - LinkedIn - [Rahmat Trinanda](https://www.linkedin.com/in/rahmat-trinanda/)
